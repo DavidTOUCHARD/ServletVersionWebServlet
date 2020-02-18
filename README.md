@@ -1,7 +1,5 @@
 # ServletVersionWebServlet
 
-# ServletVersionJSP
-
 Installer TomcatServer 9.0 : http://objis.com/tutoriel-tomcat-n1-installation-tomcat-8/
 
 Generation du fichier WAR :
@@ -21,27 +19,27 @@ Déploiement de l'application sur le serveur Tomcat :
 
 Fonctionnalités présentes :
 
-Session
+- Session
 
-Contexte
+- Contexte
 
-Local Port
+- Local Port
 
-Local addr.
+- Local addr.
 
-Remote Port
+- Remote Port
 
-Protocol
+- Protocol
 
-Remote User
+- Remote User
 
-Server name
+- Server name
 
-Reader
+- Reader
 
-AuthType
+- AuthType
 
-Session
+- Session
 
 Technologies :
 
